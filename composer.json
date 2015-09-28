@@ -1,0 +1,15 @@
+{
+    "name": "annexus/ioc",
+    "description": "Ioc component",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "keywords": ["ioc","inversion","control","container"],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Annexus\\Ioc\\": "src/annexus/ioc/"
+        }
+    }
+}
