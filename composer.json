@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Annexus\\Ioc\\": "src/annexus/ioc/"
+            "Annexus\\Ioc\\": ""
         }
     }
 }
